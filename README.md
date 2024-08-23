@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gê and I'm a (Ainda não sei...), but I intend to be one
-DEV ....</h2>
+<h2 align="left">Hi 👋! My name is Gê and I'm a (Ainda não...) , but I intend to be one<br>DEV ....</h2>
 
 ###
 
@@ -30,6 +29,12 @@ DEV ....</h2>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
